@@ -1,4 +1,4 @@
-FROM shipsun/centos-7.7
+FROM shipsun/centos-7.7:1.1
 MAINTAINER  test<543999860@qq.com>
 LABEL name="centos-7" \
     vendor="shipSun" \
